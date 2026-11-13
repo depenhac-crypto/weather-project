@@ -49,6 +49,7 @@ main {
   font-size: 38px;
   margin: 0;
   line-height: 48px;
+  color: #885df1;
 }
 .weather-app-details {
   color: rgba(251, 251, 254, 0.947);
@@ -70,6 +71,7 @@ main {
   font-size: 88px;
   line-height: 88px;
   font-weight: bold;
+  color: #885df1;
 }
 .weather-app-unit {
   font-size: 28px;
